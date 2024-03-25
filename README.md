@@ -22,4 +22,10 @@ Click to see the original [README.md](./README_ORIGINAL.md)
   ./build.sh humble
   ```
 
+- **bashrc**
+
+  ```bash
+  source ~/ws_livox_ros_driver2/install/local_setup.bash  # MID-360
+  ```
+
 ---
